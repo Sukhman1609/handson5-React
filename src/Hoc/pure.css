@@ -1,0 +1,42 @@
+.dark-theme {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    position: relative;
+    border: 10px solid white;
+    top:130px;
+    right: -400px;
+    width: 700px;
+   height: 200px;
+  }
+  
+  .light-theme {
+    background-color: #ffffff;
+    color:black;
+    position: relative;
+    border: 10px solid black;
+    top:130px;
+    right: -400px;
+    width: 700px;
+   height: 200px;
+  }
+
+  
+
+  .pureh{
+    position: relative;
+    right:-290px ;  
+    top:80px
+  }
+
+  .button4{
+    position: relative;
+    right: -600px;
+    top:110px;
+    font-size: 20pt;
+  }
+
+  .box{
+    position: relative;
+    right: -600px;
+    top:110px;
+  }

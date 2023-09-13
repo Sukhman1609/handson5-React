@@ -1,0 +1,33 @@
+
+  body{
+    min-height: 1100px;
+    margin: 0; 
+    padding: 0; 
+    background-image: linear-gradient(180deg,rgb(137, 84, 237), rgb(135, 252, 119),rgb(109, 186, 245));
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* overflow: scroll; */
+  }
+
+
+.heading{
+  font-size: 45pt;
+  text-align: center;
+}
+
+.main{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button{
+  width:250px;
+  height: 60px;
+  border-radius: 35px;
+  background-color:salmon;
+  font-size: 30pt;
+}
+
+button:hover{
+  background-color: green;
+}
